@@ -2,9 +2,8 @@
 
 Submitted by: **Sawdiatou Samb**
 
-This web app: **insert description**
 
-Time spent: **10** hours spent in total
+Time spent: **15** hours spent in total
 
 ## Required Features
 
