@@ -4,7 +4,7 @@ import { useState } from 'react'
 import viteLogo from '/vite.svg' */}
 
 import './App.css'
-import FlashcardQuiz from './FlasgcardQuiz'
+import FlashcardQuiz from './FlashcardQuiz'
 
       
 const App = () => {

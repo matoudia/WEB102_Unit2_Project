@@ -85,7 +85,6 @@ const FlashcardQuiz = () => {
 
   return (
     <div className="Quiz">
-      
       <div className="flashcard">
         <h2>{currentFlashcard.subject}</h2>
         <p>{currentFlashcard.question}</p>
